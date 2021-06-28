@@ -172,7 +172,7 @@ button:focus {
     background-image: url(../images/header_img.jpg);
     background-position: center center;
     background-size: cover;
-    position: relative;
+    position: absoute;
 }
 
 .page_link a {
@@ -432,7 +432,7 @@ button:focus {
     background-image: url(../images/home-bg.jpg);
     background-position: center center;
     background-size: cover;
-    position: relative;
+    position: absolute;
 }
 
 .home-table-center {
