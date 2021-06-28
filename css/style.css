@@ -265,7 +265,7 @@ button:focus {
 .btn-outline-custom:active,
 .btn-outline-custom:focus,
 .btn-outline-custom:hover,
-.open>.dropdown-toggle.btn-outline-custom {
+.open.dropdown-toggle.btn-outline-custom {
     background-color: #fff !important;
     border-color: #fff !important;
     color: #000 !important;
@@ -289,7 +289,7 @@ button:focus {
 .btn-outline-black:active,
 .btn-outline-black:focus,
 .btn-outline-black:hover,
-.open>.dropdown-toggle.btn-outline-black {
+.open.dropdown-toggle.btn-outline-black {
     background-color: #000 !important;
     border-color: #000 !important;
     /*color: #fff !important;
